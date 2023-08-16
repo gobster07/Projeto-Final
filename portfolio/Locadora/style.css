@@ -1,0 +1,12 @@
+#imdbG {
+  background-color: rgb(2, 201, 2);
+}
+#imdbM {
+  background-color: rgb(255, 255, 45);
+}
+#imdbB {
+  background-color: rgb(255, 61, 61);
+}
+html {
+  scroll-behavior: smooth;
+}
